@@ -1,0 +1,134 @@
+body {
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+}
+
+h1 {
+  font-weight: 900;
+  color: #eef2f5;
+  font-size: 5rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  line-height: 6rem;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 2rem;
+  color: #612570;
+}
+
+p {
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #612570;
+}
+
+/* Navigation */
+.nav-title {
+  font-family: Ubuntu, sans-serif;
+  color: #eef2f5;
+  font-size: 3rem;
+}
+
+.nav-item {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.nav-title:hover {
+  color: #1eafed;
+}
+
+/* Backgrounds */
+.purp-gradient {
+  background: rgb(138,29,244);
+  background: radial-gradient(circle, rgba(138,29,244,1) 0%, rgba(59,9,141,1) 100%);
+}
+
+.title-bg {
+  background-image: url("title.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50rem;
+  background-size: cover;
+}
+
+.bg-texture {
+  background-image: url("memphis-colorful.png");
+  background-color: #1eafed;
+}
+
+
+/* Icon Cards */
+.card {
+  box-shadow: 0 4px 8px 0 #612570, 0 6px 20px 0 #612570;
+  opacity: .7;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px 0 #1eafed, 0 6px 20px 0 #1eafed;
+  transform: scale(1.1);
+}
+
+.icon {
+  color: #ea168e;
+  padding: 1rem;
+}
+
+.icon-background {
+  padding: 4rem;
+}
+
+.icon:hover {
+  color: #1eafed;
+  transform: scale(1.1);
+}
+
+/* Testimonials */
+#testimonials {
+  background: rgb(240,206,179);
+  background: radial-gradient(circle, rgba(240,206,179,1) 0%, rgba(245,149,110,1) 100%);
+  color: #eef2f5;
+}
+
+.testament {
+  font-size: 2.8rem;
+  padding: 3.5rem 5rem 1rem 5rem;
+  color: #612570;
+}
+
+.testimonial-img {
+  width: 5rem;
+  padding-top: 0.75rem;
+}
+
+.carousel-item {
+  padding-bottom: 6rem;
+  padding-top: 7rem;
+}
+
+/* Endorsements */
+.endorsement-background {
+  padding: 14rem 0;
+}
+
+/* Footer Section */
+#footer {
+  padding: 6rem;
+}
+
+.footer-card {
+  margin: 1rem;
+  opacity: 1;
+  margin-top: 3rem;
+}
+
+.logo {
+  padding: 3rem;
+}
+
+.tagline {
+  margin-top: 15rem;
+  color: #eef2f5;
+}
