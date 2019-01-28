@@ -48,6 +48,7 @@ p {
 
 .title-bg {
   background-image: url("title.png");
+  background-color: rgba(138,29,244,1);
   background-position: center;
   background-repeat: no-repeat;
   height: 50rem;
