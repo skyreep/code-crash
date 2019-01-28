@@ -6,10 +6,10 @@ body {
 h1 {
   font-weight: 900;
   color: #eef2f5;
-  font-size: 5rem;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  font-size: 4rem;
+  padding: 5rem 0;
   line-height: 6rem;
+  margin: 0 3rem;
 }
 
 h2 {
@@ -28,7 +28,7 @@ p {
 .nav-title {
   font-family: Ubuntu, sans-serif;
   color: #eef2f5;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 .nav-item {
