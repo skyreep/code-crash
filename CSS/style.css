@@ -116,13 +116,11 @@ p {
 
 /* Footer Section */
 #footer {
-  padding: 6rem;
+  padding: 10rem 3rem 2rem 3rem;
 }
 
 .footer-card {
-  margin: 1rem;
   opacity: 1;
-  margin-top: 3rem;
 }
 
 .logo {
@@ -130,14 +128,17 @@ p {
 }
 
 .tagline {
-  margin-top: 15rem;
+  margin-top: 10rem;
   color: #eef2f5;
 }
 
-/* Media Queries */
 @media only screen and (min-width: 601px) {
   h1 {
     font-size: 6rem;
     line-height: 7rem;
+  }
+
+  #footer {
+    padding: 10rem 5rem 2rem 5rem;
   }
 }
