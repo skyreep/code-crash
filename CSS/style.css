@@ -110,8 +110,9 @@ p {
 }
 
 /* Endorsements */
-.endorsement-background {
-  padding: 5rem 0;
+.endorsement-row {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 /* Footer Section */
