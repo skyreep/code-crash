@@ -6,9 +6,9 @@ body {
 h1 {
   font-weight: 900;
   color: #eef2f5;
-  font-size: 3.25rem;
-  padding-top: 8rem;
-  line-height: 3rem;
+  font-size: 4rem;
+  padding-top: 7rem;
+  line-height: 5rem;
 }
 
 h2 {
@@ -137,6 +137,6 @@ p {
 @media only screen and (min-width: 601px) {
   h1 {
     font-size: 6rem;
-    line-height: 6rem;
+    line-height: 7rem;
   }
 }
