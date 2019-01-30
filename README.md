@@ -1,7 +1,7 @@
 # CodeCrash
 
 ## Preview
-<img src="/images/responsive-demo.gif?raw=true" width="600px">
+<img src="/images/responsive-demo.gif?raw=true" width="800px">
 
 
 ## Demo
