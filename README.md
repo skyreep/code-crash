@@ -1,7 +1,11 @@
 # CodeCrash
 
 ## Preview
-![CodeCrash-preview-thumbnail](https://skyreep.github.io/code-crash/images/responsive-demo.gif "CodeCrash Preview")
+
+-![CodeCrash-preview-GIF](https://skyreep.github.io/code-crash/images/responsive-demo.gif "CodeCrash Preview")
+
++<img src="/images/responsive-demo.gif?raw=true" width="200px">
+
 
 ## Demo
 A live demo is available here: https://skyreep.github.io/code-crash/
