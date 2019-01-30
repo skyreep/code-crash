@@ -1,2 +1,12 @@
-# code-crash
-Responsive social media landing page built with Bootstrap and Rellax.js
+# CodeCrash
+
+## Preview
+
+## Description
+A mobile-first, responsive, startup landing page for a social network platform. 
+
+## Dependencies
+
+## Usage
+
+## Future Work
