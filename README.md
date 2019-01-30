@@ -5,7 +5,7 @@
 
 
 ## Description
-A mobile-first, responsive, startup landing page for a social network platform. 
+A mobile-first, responsive, landing page built with HTML, CSS, Bootstrap, and Rellax.js
 
 ## Dependencies
 
