@@ -14,4 +14,4 @@ A responsive landing page with parallax scrolling built using HTML, CSS, Bootstr
 ## Usage
 
 ## Future Work
-While the load time is fine on desktop browsers, the main background image has a long load time on mobile. I tried using a smaller image, and looked into the webpg image format, but unfortunately it was not compatible with all mobile browsers in my testing. In the future I would like to decrease the load time further. 
+While the load time is fine on desktop browsers, the title background image has a long load time on mobile. I tried using a smaller image, and looked into the webpg image format, but unfortunately it was not compatible with all mobile browsers in my testing. In the future I would like to decrease the load time further. 
