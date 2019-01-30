@@ -27,4 +27,4 @@ To enhance the theme, follow these steps:
 </ul>
 
 ## Future Work
-While the load time is fine on desktop browsers, the title background image has a long load time on mobile. I tried using a smaller image, and looked into the webp image format, but unfortunately, it was not compatible with all mobile browsers in my testing. In the future I would like to decrease the load time further. I think this might best be accomplished with a smaller image in the local directory that can be used with a media query on smaller screens.
+While the load time is fine on desktop browsers, the title background image has a long load time on mobile. I tried using a smaller image, and looked into the webP image format, but unfortunately, it was not compatible with all mobile browsers in my testing. In the future I would like to decrease the load time further. I think this might best be accomplished with a smaller image in the local directory that can be used with a media query on smaller screens.
