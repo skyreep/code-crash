@@ -1,7 +1,7 @@
 # CodeCrash
 
 ## Preview
-![CodeCrash-preview-thumbnail](https://github.io/code-crash/images/thumbnail.png "CodeCrash Preview")
+![CodeCrash-preview-thumbnail](https://skyreep.github.io/code-crash/images/thumbnail.png "CodeCrash Preview")
 
 
 ## Description
