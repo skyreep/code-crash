@@ -7,7 +7,7 @@
 A live demo is available here: https://skyreep.github.io/code-crash/
 
 ## Description
-A mobile-first, responsive, landing page built with HTML, CSS, Bootstrap, and Rellax.js
+A responsive landing page with parallax scrolling built using HTML, CSS, Bootstrap, and Rellax.js
 
 ## Dependencies
 
