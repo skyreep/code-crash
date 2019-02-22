@@ -7,7 +7,7 @@
 A live demo is available here: https://skyreep.github.io/code-crash/
 
 ## Description
-A responsive landing page with mobile friendly parallax scrolling built using HTML, CSS, Bootstrap, and Rellax.js
+A responsive landing page with mobile friendly parallax scrolling built using HTML, CSS, Bootstrap, and Rellax.js. Completed for an 8 hour rapid development cycle project in the CSCI-495 IS Capstone course at Coastal Carolina University.
 
 ## Dependencies
 <ul>
